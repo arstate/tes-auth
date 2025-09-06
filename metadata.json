@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Google Login Test",
+  "description": "A web application to test Google Sign-In functionality using Firebase Authentication. It provides a simple interface to log in with a Google account and view basic profile information upon successful authentication.",
+  "requestFramePermissions": []
+}
